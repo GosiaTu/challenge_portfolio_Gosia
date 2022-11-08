@@ -44,6 +44,10 @@ e37646be6bec636a7b98d9f81a3aeebfba345560.b0333572accba70fd07f.js:1          POST
 ```
 Miało to jednak miejsce tylko raz (później po analogicznym kliknięciu nie było już błędów), stąd zastanawiam się, czy to nie był problem z moim internetem :)
 # Task 2
+## Subtask 1
+<https://docs.google.com/spreadsheets/d/1lLVgGJZ2UG5K5dSujl92mGO9lUM15L3XBI6Uca3WW3I/edit?usp=sharing>
+## Subtask 2
+<https://docs.google.com/spreadsheets/d/1nxDRmZZfMhtwFvmUgaS5EoVJi_bini25yfLH_0N6WgU/edit?usp=sharing>
 ## Subtask 3
 <img src="https://media.giphy.com/media/oOVlFfxJMdui2nQP6b/giphy.gif">
 ... a bardziej serio :upside_down_face: : przypadki testowe mogą się przydać Tobie samemu/-mej, gdy po jakimś czasie wracasz z potrzebą dotestowania czegoś - zapewne nie będziesz w stanie bez tego odtworzyć dokładnie, co wtedy robiłeś/-ąś, w jakiej kolejności itd. Mogą też się przydać innym testerom, np. dochodzącym do projektu już w jego trakcie.
