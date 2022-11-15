@@ -51,3 +51,7 @@ Miało to jednak miejsce tylko raz (później po analogicznym kliknięciu nie by
 ## Subtask 3
 <img src="https://media.giphy.com/media/oOVlFfxJMdui2nQP6b/giphy.gif">
 ... a bardziej serio :upside_down_face: : przypadki testowe mogą się przydać Tobie samemu/-mej, gdy po jakimś czasie wracasz z potrzebą dotestowania czegoś - zapewne nie będziesz w stanie bez tego odtworzyć dokładnie, co wtedy robiłeś/-ąś, w jakiej kolejności itd. Mogą też się przydać innym testerom, np. dochodzącym do projektu już w jego trakcie.
+
+# Task 3
+
+<https://drive.google.com/drive/folders/1OTsTA4tMrAj_kbtRQJt_6O_HaYSDoMre?usp=sharing>
