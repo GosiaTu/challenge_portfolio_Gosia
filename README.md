@@ -55,3 +55,15 @@ Miało to jednak miejsce tylko raz (później po analogicznym kliknięciu nie by
 # Task 3
 
 <https://drive.google.com/drive/folders/1OTsTA4tMrAj_kbtRQJt_6O_HaYSDoMre?usp=sharing>
+
+# Task 3
+
+## Subtask 3
+1. Aplikacja służy do praktykowania medytacji, ćwiczenia oddechu i redukcji stresu za pomocą muzyki relaksacyjnej.
+2. Użytkownikiem prawdopodobnie może być każda osoba zainteresowana tematyką rozwoju osobistego i mindfulness.
+3. Według mnie aplikacja zasadniczo jest user friendly.
+* Zmodyfikowałabym układ menu głównego - ustawianie celu ('Choose your goal') mogłoby być na innym poziomie, np. wyżej. W tej chwili wygląda jak kurs kolejnego, wyższego poziomu.
+4. Po dość pobieżnych testach eksploracyjnych (w tym tygodniu niestety miałam na to zadanie mało czasu) najważniejsze funkcjonalności wydają się działać. 
+* Wybrałam kurs wprowadzający ('Introductory course'), który potem dodał się do menu głównego ('Home').
+* Działają: muzyka i ćwiczenia oddechowe.
+5. Testowanie aplikacji natywnej było dla mnie bardziej intyicyjne, gdyż posługiwałam się interfejsem do którego byłam przyzwyczajona (DevTools jako narzędzie ma jeszcze przede mną dużo sekretów) - wydaje mi się, że my wszyscy jesteśmy w pewnym stopniu na co dzień testerami aplikacji natywnych używając aplikacji w telefonie.
