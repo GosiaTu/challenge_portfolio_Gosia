@@ -66,4 +66,8 @@ Miało to jednak miejsce tylko raz (później po analogicznym kliknięciu nie by
 4. Po dość pobieżnych testach eksploracyjnych (w tym tygodniu niestety miałam na to zadanie mało czasu) najważniejsze funkcjonalności wydają się działać. 
 * Wybrałam kurs wprowadzający ('Introductory course'), który potem dodał się do menu głównego ('Home').
 * Działają: muzyka i ćwiczenia oddechowe.
+
+Raport:
+<https://drive.google.com/drive/folders/1vv6UWxjJ9H4j5GO47hYfzR5GwZK62egK?usp=sharing>
+
 5. Testowanie aplikacji natywnej było dla mnie bardziej intyicyjne, gdyż posługiwałam się interfejsem do którego byłam przyzwyczajona (DevTools jako narzędzie ma jeszcze przede mną dużo sekretów) - wydaje mi się, że my wszyscy jesteśmy w pewnym stopniu na co dzień testerami aplikacji natywnych używając aplikacji w telefonie.
